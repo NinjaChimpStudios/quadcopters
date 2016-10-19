@@ -6,7 +6,12 @@ TODO
 
 TODO
 
-### Canonical Solutions
+### Solutions
+
+| Symptom | Canonical Solution | Other Solutions |
+| ------- | ------------------ | --------------- |
+| Bounceback after hard manoeuver | increase D | - |
+| Hot motors | Decrease D | - |
 
 TODO
 
