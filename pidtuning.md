@@ -10,8 +10,8 @@ TODO
 
 | Symptom | Canonical Solution | Other Solutions |
 | ------- | ------------------ | --------------- |
-| Bounceback after hard manoeuver | increase D | - |
-| Hot motors | Decrease D | - |
+| Bounceback after hard manoeuver | Increase D | - |
+| Hot motors / excessive battery drain | Decrease D | - |
 
 TODO
 
