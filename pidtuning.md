@@ -4,7 +4,10 @@ TODO
 
 ### General Best Practices
 
-TODO
+| Best Practice |
+| ------------- |
+| Tune in Acro mode only |
+| Tune each axis separately, starting with P (with I/D at least halved from default to limit their influence)
 
 ### Solutions
 
@@ -12,8 +15,6 @@ TODO
 | ------- | ------------------ | --------------- |
 | Bounceback after hard manoeuver | Increase D | - |
 | Hot motors / excessive battery drain | Decrease D | - |
-
-TODO
 
 ### Quad Specific Notes
 
