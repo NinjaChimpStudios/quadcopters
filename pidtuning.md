@@ -17,6 +17,7 @@
 | ------- | ------------------ |
 | Bounceback after hard manoeuver | Increase D |
 | Hot motors / excessive battery drain | Decrease D |
+| Oscillation | Increase D / decrease P |
 
 ### Quad Specific Notes
 
